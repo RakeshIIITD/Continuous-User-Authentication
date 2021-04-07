@@ -1,4 +1,4 @@
-"Files to be replaced" folder : Contains files which need to be replaced for theano and keras libaray folders
+"Library Modification" folder : Contains files which need to be replaced for theano and keras libaray folders
 
 (1) Main model is inside "Continuous Authentication" folder.
 (2) For running main model on a dataset of a user, place dataset '.mat' file in Continuous Authenicastion folder and change variable dataset = 'name_of_user'. 
