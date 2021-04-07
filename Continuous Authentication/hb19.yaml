@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+learning_rate: 0.0005
+optim: SGD
+batch_size: 50
+nb_epoch: 65
+n_layers: 15
+hidden_num: 100
+activation: relu 
+loss_weight: ave
+adaptive_weight: True
+data: all_21
+hedge: True 
+model: MLP
+input_size: 21
+log: log_hbp19
