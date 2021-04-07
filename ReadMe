@@ -1,5 +1,5 @@
 A technique to continously authenticate a user on mobile devices by behavioural biometrics.
-It uses touch style, movement, hand orientation data to classify between genuine user/imposter.
+It uses touch style, movement, hand orientation & mobile sensor data to classify between genuine user/imposter during real time.
 User behaviour changes over time, this is framework does lifelong learning and able to capture complex hypothesis through online learning.
 
 
