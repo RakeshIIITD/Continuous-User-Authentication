@@ -1,3 +1,8 @@
+A technique to continously authenticate a user on mobile devices by behavioural biometrics.
+It uses touch style, movement, hand orientation data to classify between genuine user/imposter.
+User behaviour changes over time, this is framework does lifelong learning and able to capture very complex hypothesis through online learning.
+
+
 "Library Modification" folder : Contains files which need to be replaced for theano and keras libaray folders
 
 (1) Main model is inside "Continuous Authentication" folder.
