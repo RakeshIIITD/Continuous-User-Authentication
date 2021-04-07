@@ -1,11 +1,10 @@
 A technique to continously authenticate a user on mobile devices by behavioural biometrics.
 It uses touch style, movement, hand orientation data to classify between genuine user/imposter.
-User behaviour changes over time, this is framework does lifelong learning and able to capture very complex hypothesis through online learning.
+User behaviour changes over time, this is framework does lifelong learning and able to capture complex hypothesis through online learning.
 
 
-"Library Modification" folder : Contains files which need to be replaced for theano and keras libaray folders
+"Library Modification" folder : Contains files which need to be replaced for theano and keras library.
 
 (1) Main model is inside "Continuous Authentication" folder.
 (2) For running main model on a dataset of a user, place dataset '.mat' file in Continuous Authenicastion folder and change variable dataset = 'name_of_user'. 
 (3) Model training hyperparameters are in hb19.yaml file.  
-(4) Online Demonstration code is place in "Online learning demo code" folder
