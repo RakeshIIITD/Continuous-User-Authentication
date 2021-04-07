@@ -1,0 +1,6 @@
+"Files to be replaced" folder : Contains files which need to be replaced for theano and keras libaray folders
+
+(1) Main model is inside "Continuous Authentication" folder.
+(2) For running main model on a dataset of a user, place dataset '.mat' file in Continuous Authenicastion folder and change variable dataset = 'name_of_user'. 
+(3) Model training hyperparameters are in hb19.yaml file.  
+(4) Online Demonstration code is place in "Online learning demo code" folder
